@@ -1,0 +1,20 @@
+https://github.com/kjthaoo/dotfiles.
+
+At first the homework01 seemed very difficult but after following the instructions, it was very easy. A problem that I encountered was I didn't know where to start the command line. I was confused and thought the command line was on the website Github. I did find out that we were suppose to use the command prompt/powershell on our laptops and connect to the linux labs!
+
+I did have a few experience with Github from CSCE190. We didn't go in detail on how the website worked and what it does. So having this homework really did help me understand it more.
+
+There was a little mispelled issue I had earlier during step 8 in 4.1. I copied and pasted the text into my file but when I checked the github site it had "My Dotfles". I did try to fix it but the website didn't update after refreshing the page. I also did skip Section 4 because I was lost on the instructions; Section 6 gave me a more detailed explaination. But I was still confused on whether we need a file named "hw1.txt" or the "username_hw01.txt" file. Other than that, my performance in this lab was great.
+
+Lastly, just want to mentioned how helpful the instruction was and how enjoyable it was to do. It was very fun to learn! :D
+
+
+Command used in Section 4:
+line 572 - line 574 = -2
+tail -2
+> hw1.txt
+
+I didn't use any resources to help me with the homework assignment but i did research 1 or 2 websites.
+
+1.) https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+2.) https://askubuntu.com/questions/835657/copy-file-to-current-directory

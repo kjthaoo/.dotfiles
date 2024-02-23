@@ -4,4 +4,3 @@ set autoindent
 set number
 set ignorecase
 color elflord
-
